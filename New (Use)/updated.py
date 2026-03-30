@@ -1,5 +1,5 @@
 # I didn't feel like putting much effort into the docstrings, so if you have any questions,
-# please email me at: jimic2006@gmail.com
+# please email me at: theironcollectorgit@gmail.com
 
 from collections import defaultdict
 from sympy.functions.combinatorial.numbers import totient
